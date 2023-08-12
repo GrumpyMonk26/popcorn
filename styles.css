@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Inter:wght@300;400;500;600;700;800;900&family=Share+Tech+Mono&family=Tilt+Prism&display=swap');
+
+.container,
+.container-fluid {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand .logo--image {
+  max-height: 40px; /* Adjust the max-height as needed */
+  width: auto;
+}
+
+.banner--image img {
+  max-width: 100%; /* Adjust the max-width as needed */
+  height: auto;
+}
+
+.banner--image {
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+
+.info--section {
+  margin-top: 30px;
+  font-family: 'Tilt Prism', cursive;
+  color: #009dc4;
+  font-size: 4rem;
+}
+
+.info--text {
+  font-size: 20px;
+}
